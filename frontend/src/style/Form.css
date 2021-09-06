@@ -1,0 +1,24 @@
+.title{
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+.hero{
+    background-image: url('https://source.unsplash.com/1400x500/?car');
+    height: 500px;
+    margin-bottom: -250px;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+}
+
+.formContainer {
+    background-color: #282c34;
+    color: white;
+    border-radius: 10px;
+  }
+.result{
+    
+     font-size: 25px;
+     cursor: auto; 
+}
